@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuranjak Bhatt</h1>
-<h3 align="center">A passionate software quality assurance engineer from India</h3>
+<h3 align="center">A passionate software tester</h3>
 
 - 🌱 I’m currently learning **Selenium, Jenkins, Cucumber, Postman & various other testing automation tools**
 
 - 📫 How to reach me **bhattanuranjak@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
